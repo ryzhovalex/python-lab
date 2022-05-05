@@ -1,0 +1,1 @@
+encryption result of instance:<__main__.Crypt object at 0x00DC1F58>----> CBIDICBDH>88x84x88x82x97x84x92x97x82x89x84x82x187x190x185x186x187x191x185x190x187x184x191x192x192x191x
